@@ -1,0 +1,12 @@
+https://azure.microsoft.com/en-us/services/cognitive-services/text-analytics/
+
+Positive : these puppies are so cute!
+
+Negative : That coffee was cold and stale !
+
+Mixed : That dog’s as subtle as a hand grenade in a barrel of oat meal 
+
+https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/keyPhrases
+
+https://westus.api.cognitive.microsoft.com/text/analytics/v2.0/sentiment
+
